@@ -2,7 +2,8 @@ import { movieDTO } from "./Movies.Models";
 import css from "./InvidualMovies.Module.css";
 
 export default function InvidualMovies(props: movieDTO){
-    const buildingLink = () => {props.poster}; // need a arrow function, incase we dont 
+     const buildLink = () => `/movies/${props.id}`
+ // need a arrow function, incase we dont 
     // need binding function later
     
     return(
