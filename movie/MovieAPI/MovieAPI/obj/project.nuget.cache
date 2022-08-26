@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zaeJrdkvHLJ/7uCekP7Ue1X5UQpk/14nKMIshnYJcf5kO3AB5jLZtWCPahP0PDw0N4DRTdGqKYoQyO+W1+Me6Q==",
+  "success": true,
+  "projectFilePath": "/Users/nhokphal/reactjs/movie/MovieAPI/MovieAPI/MovieAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/nhokphal/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/nhokphal/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/nhokphal/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/nhokphal/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/nhokphal/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/nhokphal/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
